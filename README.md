@@ -1,5 +1,7 @@
 # ansible-elasticsearch
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansible-elasticsearch.svg)](https://www.guardrails.io)
+
 Ansible role for Elasticsearch.  Currently this works on Debian and RedHat based linux systems.  Tested platforms are:
 
 * Ubuntu 14.04
